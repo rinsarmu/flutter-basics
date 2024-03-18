@@ -62,7 +62,7 @@ class _MyAppState extends State<MyApp> {
                       width: double.infinity,
                       height: double.infinity,
                       child: Text(
-                        'Setting',
+                        'Settings',
                       ),
                     ),
         ),
